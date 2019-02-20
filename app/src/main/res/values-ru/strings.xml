@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">homeWork1</string>
+    <string name="openSecondActivity">открыть вторую Activity</string>
+    <string name="main_activity_title">главная Activity</string>
+    <string name="second_activity_title">вторая Activity</string>
+    <string name="btnStartIntentService">запустить IntentService</string>
+    <string name="data_IsNotReceived">данные не получены</string>
+    <string name="contactsAreLoaded">контакты загружены</string>
+    <string name="permissionNotGranted">Нет возможности загрузить контакты без вашего разрешения</string>
+
+</resources>
